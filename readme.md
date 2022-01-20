@@ -17,3 +17,11 @@
         /node_modules
 
     npm i express body-parser
+
+## 265. Template? Why Do We Need Template?
+
+### Pengenalan dan menjalankan server
+
+    pada terminal :
+        - jika sudah menginstall nodemon secara global : nodemon app.js
+    pada browser : http://localhost:3000/
