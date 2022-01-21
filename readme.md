@@ -38,3 +38,18 @@
 ## 267. Running Code Inside the EJS Template
 
     pada browser : http://localhost:3000/
+
+## 268. Passing Data from Your Webpage to Your Server
+
+    Documentation :
+                    - https://stackoverflow.com/questions/3552461/how-to-format-a-javascript-date
+
+    pada browser : http://localhost:3000/
+    lakukan input data dan lihat apa yang terjadi!
+
+## 269. The Concept of Scope in the Context of Javascript
+
+    jika ver, let dan const berada pada sebuah functionatau kalibrate{}, maka:
+        var => Global
+        let => Local
+        const => Local
