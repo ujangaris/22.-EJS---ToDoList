@@ -25,3 +25,12 @@
     pada terminal :
         - jika sudah menginstall nodemon secara global : nodemon app.js
     pada browser : http://localhost:3000/
+
+## 265. Creating Your First EJS
+
+    Documentation :
+                    - https://ejs.co/
+                    - https://github.com/mde/ejs/wiki/Using-EJS-with-Express
+    install EJS : npm i ejs
+                app.js => app.set('view engine', 'ejs');
+    pada browser : http://localhost:3000/
