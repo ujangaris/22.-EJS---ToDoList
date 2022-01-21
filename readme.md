@@ -26,7 +26,7 @@
         - jika sudah menginstall nodemon secara global : nodemon app.js
     pada browser : http://localhost:3000/
 
-## 265. Creating Your First EJS
+## 266. Creating Your First EJS
 
     Documentation :
                     - https://ejs.co/
