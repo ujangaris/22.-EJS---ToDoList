@@ -34,3 +34,7 @@
     install EJS : npm i ejs
                 app.js => app.set('view engine', 'ejs');
     pada browser : http://localhost:3000/
+
+## 267. Running Code Inside the EJS Template
+
+    pada browser : http://localhost:3000/
