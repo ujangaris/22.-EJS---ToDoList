@@ -60,3 +60,10 @@
                     - https://www.w3schools.com/cssref/css_selectors.asp
 
     pada browser : http://localhost:3000/
+
+## 271. Understanding Templating vs. Layouts
+
+    pada browser :
+                    - http://localhost:3000
+                    - http://localhost:3000/work
+                    - http://localhost:3000/about
