@@ -67,3 +67,14 @@
                     - http://localhost:3000
                     - http://localhost:3000/work
                     - http://localhost:3000/about
+
+## 272. Understandig Node Module Exports: How to Pass Function and Data between Files
+
+    Documentation:
+                    - https://nodejs.org/dist/latest-v16.x/docs/api/modules.html#the-module-object
+                    - https://dmitripavlutin.com/6-ways-to-declare-javascript-functions/
+
+    pada browser :
+                    - http://localhost:3000
+                    - http://localhost:3000/work
+                    - http://localhost:3000/about
